@@ -9,7 +9,7 @@
 # version desktop :
 
 <p align="center">
-  <img src="https://samdaph.com/portfolio/desktop.png" width="1000" title="hover text">
+  <img src="https://samdaph.com/portfolio/desk.png" width="1000" title="hover text">
 </p>
 
 # Version tablet :

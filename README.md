@@ -7,21 +7,11 @@
 ## Here the final result:
 
 # version desktop :
-
-<p align="center">
-  <img src="https://samdaph.com/portfolio/desk.png" width="1000" title="hover text">
-</p>
-
 # Version tablet :
-
-<p align="center">
-  <img src="https://samdaph.com/portfolio/tablet.png" width="700" title="hover text">
-</p>
-
 # Version mobile :
 
 <p align="center">
-  <img src="https://samdaph.com/portfolio/mobile.png" width="400" title="hover text">
+  <img src="https://samdaph.com/portfolio/desk.jpg" width="1000" title="hover text">
 </p>
 
 #### This webpage has been designed by Nicolas Philippot, UI/UX designer.
